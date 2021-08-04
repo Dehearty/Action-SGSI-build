@@ -23,9 +23,11 @@ MiuiScanner
 PersonalAssistant
 Phonesky
 Email
-PaymentServices
+PaymentService
 Velvet
-
+Weather
+MiuiAOD
+wps-lite
 
 "
 
