@@ -10,13 +10,23 @@ CameraTools
 Mipay
 MiuiBugReport
 Browser
-Calendar
+Provision
 MiuiCamera
-MiuiGallery
+MiuiVideoGlobal
 MiuiVideo
 Music
-QuickSearchBox
-talkback
+Health
+MiBrowserGlobal
+Camera
+GmsCore
+MiuiScanner
+PersonalAssistant
+Phonesky
+Email
+PaymentServices
+Velvet
+
+
 "
 
 for delete_dir in $apps_dir ;do
