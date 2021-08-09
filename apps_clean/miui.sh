@@ -11,18 +11,18 @@ Mipay
 MIpay
 MiuiBugReport
 MiuiCamera
-CatchLog
+
 MIService
 MiSound
 MIUIAod
 MiuiVideoGlobal
 MiBrowserGlobal
 MiuiWallpaper
-Updater
+Browser
 MiuiVideo
 Music
-MiuiAod
-MiService
+
+
 "
 
 for delete_dir in $apps_dir ;do
